@@ -1,0 +1,14 @@
+1. Basics of probabilities
+
+https://www.analyticsvidhya.com/blog/2017/02/basic-probability-data-science-with-examples/
+
+* probability mass function (descrete values)
+* probability density function (continuous values)
+* central limit therem
+* calculating probablity of a value less than specific number in a normal distribution (with given mean and standard deviation)
+
+to-do:
+
+Challenge 1: Contrary to the popular expectation, try calculating the probability of getting 50 heads and 50 tails on 100 flips of fair coins? This expectation is known as the gambler’s fallacy! An approximate answer would suffice!
+
+Challenge 2: Try another one – In the United States, the average IQ is 100, with a standard deviation of 15. What percentage of the population would you expect to have an IQ more than 120?
