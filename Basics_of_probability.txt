@@ -12,3 +12,18 @@ to-do:
 Challenge 1: Contrary to the popular expectation, try calculating the probability of getting 50 heads and 50 tails on 100 flips of fair coins? This expectation is known as the gambler’s fallacy! An approximate answer would suffice!
 
 Challenge 2: Try another one – In the United States, the average IQ is 100, with a standard deviation of 15. What percentage of the population would you expect to have an IQ more than 120?
+
+A positive Z score indicates that the observed value is Z standard deviations above the mean. Negative Z score indicates that the value is below the mean.
+
+Observed value = µ+zσ [µ is the mean and σ is the standard deviation]
+
+Observed value = µ+zσ
+120=100+z*15
+z=120-100/15
+z=1.33 (value from z table=0.9082)
+for >120,(total probability=1,upto 120=0.9082)
+1-0.9082= 0.0918 ==>9.18%
+
+
+
+
