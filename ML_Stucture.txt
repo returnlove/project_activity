@@ -1,0 +1,10 @@
+Read training and testing data
+extract labels from the training data
+club traing and test features into a single df
+feature engineering
+split back training and testing dataset
+split training dataset into train and test set to check the performance
+apply model
+select the best model
+apply best model on complete training data
+check the performance on test data
